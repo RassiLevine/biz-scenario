@@ -16,9 +16,6 @@ Those that served less than one term are NPs
 Those that served more than one term are PAs
 
 
-* No one was hired before 2010  
-* The only possible shifts are am and pm
-* 
 Q&A:
 	1) When is the eraliest date employees were hired?
 		January of 2010
