@@ -1,5 +1,6 @@
 
-/* PriorityHealth needs us to keep records of their hospital staff. Please include the staff memeber's name, shift (am/pm), date hired, and position. 
+/* PriorityHealth needs us to keep records of their hospital staff. They need us to organize their date and keep track of who was hired when, the employee's position and their shift.
+Please include the staff memeber's name, shift (am/pm), date hired, and position. 
 Use the presidents table.
 
 The shifts are as follows: those presidents who were 65 or under at time of TermStart = am
@@ -18,7 +19,13 @@ Those that served more than one term are PAs
 * No one was hired before 2010  
 * The only possible shifts are am and pm
 * 
-
+Q&A:
+	1) When is the eraliest date employees were hired?
+		January of 2010
+	2) Can someone be hired for a position other than the ones stated above?
+		No
+	3) Do you have a minimum age for hire?
+		No
 Reports:
 
 	1) The Hospital wants to recognize some of its members. Show the five newest employees and the two oldest employees.
